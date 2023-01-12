@@ -1,6 +1,6 @@
 
 
-![0002](https://user-images.githubusercontent.com/69165692/212195722-59e08410-0fca-4259-bcd2-85aad4d0c8e9.jpg)
+
 ![0003](https://user-images.githubusercontent.com/69165692/212195724-fd114259-46f2-449b-ad3b-fce68eac7b42.jpg)
 ![0004](https://user-images.githubusercontent.com/69165692/212195725-ac409892-5749-45c1-9235-35ea806eb82c.jpg)
 ![0005](https://user-images.githubusercontent.com/69165692/212195730-9d5b681f-f95c-4bb5-8984-edbf0d7c1a5d.jpg)
