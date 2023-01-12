@@ -1,0 +1,512 @@
+,scrape_date,details,min_soil_temp,max_soil_temp,min_space,max_space,min_harvest_days,max_harvest_days,new_companions,S,T,P,avoids
+0,2022-10-24 11:15:40.203136,"Amaranth sp are frequently grown as flower plants and have many colour variations. 
+Amaranth tricolor is known as Chinese spinach and has an insignificant flower.
+Needs a warm sunny position.
+Avoid heavy soils.
+Poor germination rates are common",64,86,20,20,49,56,"{'corn', 'onions', 'tomatoes', 'egg plant', 'peppers'}",set(),set(),set(),set()
+1,2022-10-24 11:15:41.823406,"Angelica is a biennial herb-growing the first year and flowering the second.
+Angelica likes moist, rich soil that is slightly acid, growing best in semi-shade. It can be grown from seeds, but they must be sown within a few weeks otherwise they lose their viability. Angelica will self seed if seed heads are left on the plant.
+Young plants will die back in winter and will need mulching in frost-prone areas. Then they will grow again in spring and produce flowers.
+NOTE: Angelica pachycarpa sold as an ornamental garden plant is not edible. It can be distinguished from Angelica archangelica as it has bright shiny leaves.",50,77,18,18,540,540,"{'mint', 'lemon balm'}",set(),set(),{5},set()
+2,2022-10-24 11:15:43.608548,"Superthistles growing to 1.2-1.3m high with a spread of 1.2x1.2m . 
+Very pretty, can be part of a herbacious border.
+Harvest from second year. Artichokes grow particularly well in sandy soil.
+Can be propagated by suckers or offsets.
+In temperate/warm areas a well fertilised plant will live for about five years and throw up suckers each year. Artichokes aren't hardy enough to overwinter in areas with very cold winters. In cold areas choose a hardy variety from a local supplier and grow it as an annual, with 10 days' exposure to cool daytime temperatures during spring. Transplant only when all danger of frost is past in your area.
+Aphids and earwigs can be a nuisance.",59,64,63,79,294,399,set(),{2},{4},{4},set()
+3,2022-10-24 11:15:45.324794,"Plant crowns (roots) 20-40cm apart and a few cm (1 inch) deep in well manured soil. The asparagus shoots grow in spring. Harvest the shoots which are bigger than 1-2cm/half-inch in diameter. Leave the rest to grow into the leafy ferns (1.5m/5-6ft tall) which will feed the crowns to give a crop next year. In autumn the ferns will be covered in bright red poisonous berries.
+Leave the ferns to die down in autumn, then trim off the dead stalks and pile on plenty of rotted manure/compost to give the roots plenty of food to produce new stems in spring.
+Harvest by cutting off the stalk, close to the ground. From the third year you can get an additional crop by letting the first lot of ferns grow, then bending down the stalks to break them. A second crop of shoots will grow and can be harvested. Leave subsequent shoots to grow on to ferns. Asparagus does not like continuously wet and warm soil. It grows better where there is a cool or frosty season.",61,86,8,16,730,1095,"{'parsley', 'basil', 'nasturtiums', 'lettuce'}",{3},{5},set(),"{'root vegetables', 'garlic', 'onions'}"
+4,2022-10-24 11:15:46.759048,"This low spreading plant has small trifoliate leaves, and deep crimson flowers are borne in pairs. Harvest pods when approximately 2.5cm (1"") long. ( about 80 days)
+Asparagus pea is easy to cultivate. It needs average moisture, full sun, and ordinary soil.
+It needs a long growing season to flower and fruit properly, so start it indoors in cooler areas.
+Only the pods are edible for Lotus tetragonobolus.
+The other asparagus pea is the tropical plant Psophocarpus tetragonolobus, also known as Goa bean.
+Support with twigs to keep the stems off the ground. Protect from slugs and snails. 
+Pick pods when small as they become hard and dry if left too long.",59,68,8,10,56,77,set(),set(),set(),{5},set()
+5,2022-10-24 11:15:48.501265,"A frost tender low-growing herb. Basil is a culinary herb prominently featured in Italian cuisine, and also plays a major role in the Southeast Asian cuisines of Thailand, Vietnam, Cambodia, and Laos. The plant tastes somewhat like anise, with a strong, pungent sweet smell.
+There are many varieties including Thai, purple ruffles, and lemon.
+In frost-free regions perennial basil varieties will survive for years and the bush will keep on getting bigger and bigger.
+Can be grown inside in pots in winter. As the plant develops, pinch out the top to encourage bushy growth.
+Pick off the flowers to encourage more leaf growth.",64,95,8,10,70,84,{'tomato'},{3},{4},"{4, 5}",set()
+6,2022-10-24 11:15:50.239736,"Grow beans up fences, trellis, sweet corn, trees. Almost anywhere can be 'vertically productive'.
+Keep well watered and pick regularly to encourage new flowers. Watch out for snails, as they will eat through the stems near ground level, and will completely eat newly sprouted beans. If you have nice new beans plants one day, and none the next, then it is probably slugs or snails.",61,86,4,8,63,77,"{'dill', 'strawberry', 'spinach', 'zucchini', 'beets', 'carrots', 'cucumbers', 'summer savory', 'wild marigold', 'radish', 'sweetcorn', 'brassicas', 'lettuce', 'tagates minuta'}",set(),set(),{5},"{'leek', 'florence fennel', 'chives', 'allium', 'onions', 'garlic'}"
+7,2022-10-24 11:15:51.981005,"Traditionally sown in rows, dwarf beans also grow well 'broadcast' or scattered over an area. Just scatter  the seed  (don't worry about the odd ones which are close up). Cover with soil, potting mix, or compost and firm down with the back of a spade or rake. Grown this way the beans will mostly shade out competing weeds and 'self-mulch'.
+Keep watered and watch for shield bugs and green caterpillars
+Pick the beans regularly to encourage new flowers. Flowering will slow right down if you let the beans get too large (hard and stringy) on the plants.
+For a continuous crop, plant more seed as soon as the previous planting starts to flower.
+Protect against snails and slugs - they will completely destroy newly sprouted beans, and will eat the leaves off grown plants.",61,86,2,6,49,70,"{'dill', 'strawberry', 'spinach', 'beets', 'carrots', 'cucumbers', 'summer savory', 'wild marigold', 'radish', 'sweetcorn', 'brassicas', 'lettuce', 'tagates minuta'}",set(),set(),"{5, 6}","{'leek', 'chives', 'allium', 'onions', 'garlic', 'sunflower'}"
+8,2022-10-24 11:15:53.647152,"Soak seeds in water 24 hours before planting so that you can separate the seeds. 
+Thinning is nearly always required as seedlings emerge from a seedball of several seeds. If you don't thin them, you will get a number of rather pathetic plants which don't grow to an edible size.
+Harvest in 55 - 70 days but will keep in ground for longer.
+Keep well-watered as dry beetroot develop a woody and inedible core.
+Tip from the Italian Gardener ' Make sure the top of the beet's bulb is covered with soil; this keeps the entire bulb the same color and prevents 'corkiness' at the top of the bulb.""
+For tasty and tender beetroot, start harvesting at golfball-size.",45,77,8,12,49,70,"{'dill', 'dwarf beans', 'silverbeet', 'cabbage', 'swiss chard', 'onions', 'peas', 'strawberries', 'lettuce'}",set(),set(),"{3, 4, 5, 6, 7}","{'sweetcorn', 'asparagus', 'spinach', 'carrots'}"
+9,2022-10-24 11:15:55.048812,"A tall, attractive plant, often grown in flowerbeds. Bright blue star-shaped edible flowers.
+Grow in a sunny spot with well drained fertile soil. Borage dies down in the winter, but probably you will not need to buy any more seeds as it self seeds quite vigorously and spreads around the garden. Luckily, it is so attractive that it adds to the general design.
+Will grow almost anywhere but prefers well-drained soil.
+Can be transplanted when young but older plants do not move well.",50,77,8,8,56,70,"{'strawberry', 'zuchini', 'tomatoes', 'squash'}",set(),set(),{5},set()
+10,2022-10-24 11:15:56.688391,"It is a rigid, erect plant 0.5-1.7 m tall, with stout stems with a square cross-section. The leaves are 10-25 cm long, pinnate with 2-7 leaflets, and of a distinct glaucous grey-green color.
+Harvest 90 - 160 days depending on how cold the weather is. 
+In windy areas it is best to provide some support with posts and string, otherwise the plants will fall across each other.
+Pick the tops out once beans start setting to prevent blackfly.",43,75,6,10,84,154,"{'dill', 'potatoes'}",set(),set(),"{8, 9}",set()
+11,2022-10-24 11:15:58.434345,"Keep well-watered as seedlings. If left without water they will bolt to seed and be inedible. The plants should grow to develop plenty of large healthy leaves, then the green flowerheads follow, which are cut for eating. Leave the plant growing after cutting the main flowerhead, and get additional crops from the sideshoots which will develop.
+Watch for cabbage white butterflies and remove the eggs and caterpillars as soon as possible.
+There are two main types of broccoli. The purple sprouting is hardier. The heading varieties cope well with warmer weather.
+Once a plant opens its yellow flowers then it is generally past eating as the flavour gets a bit overpowering and the plant gets very woody. Harvest them sooner rather than later.
+'Broccolini' is a variety grown for the edible stalks. Grow fast with plenty of water and food, and pick as soon as possible.",45,86,14,20,70,112,"{'oregano', 'dill', 'dwarf beans', 'marigold', 'celery', 'chamomile', 'beets', 'onions', 'rhubarb', 'sage', 'nasturtium', 'cucumber', 'bush beans'}",{2},{4},"{3, 4}","{'strawberry', 'pole beans', 'mustard', 'capsicum', 'tomato', 'aubergine', 'chili', 'climbing beans', 'eggplant', 'peppers'}"
+12,2022-10-24 11:16:00.174047,"Grown for its small (typically 2.5 cm diameter) leafy green buds, which resemble miniature cabbages.
+BETTER IN COOLER AREAS.
+Brussel Sprouts will not grow good ""sprouts"" in warm areas - they open and are floppy.
+In warm areas they are likely to be infested with aphids
+Pick formed sprouts from the bottom of the stems leaving the plant growing.
+ For winter use in very cold areas, dig up plants that have heads developed and set close together in a cold frame or cellar. Pack soil firmly round the roots. Keep cool but not freezing and they will continue to mature. (Planning an Idaho Vegetable Garden :
+Educational Communication online Publishing Catalog Gardening  www.cals.uidaho.edu/ edComm/catalog.asp.)",45,86,18,24,98,196,"{'dill', 'dwarf beans', 'marigold', 'celery', 'chamomile', 'beets', 'onions', 'rhubarb', 'sage', 'nasturtium', 'cucumber', 'bush beans'}",{3},{5},{5},"{'strawberry', 'pole beans', 'mustard', 'capsicum', 'tomato', 'aubergine', 'climbing beans', 'eggplant', 'peppers (chili'}"
+13,2022-10-24 11:16:01.915184,"Burdock grows wild on roadsides and waste places and around field boundaries throughout Britain, Europe and North America; it is cultivated in Japan. It grows to about 2m (6ft) high.
+It has dark green leaves with a long tap root
+Keep watch for seed heads as it can become an invasive weed. The prickly balls were the inspiration for the inventor of 'Velcro', George de Mestra.",50,68,24,24,119,126,set(),set(),set(),set(),set()
+14,2022-10-24 11:16:03.348228,"There are many varieties of cabbage. 
+Those which stand winter weather usually have darker leaves and a stronger flavour, e.g. Savoy.
+Red cabbage is grown in a similar way to green varieties.
+If you choose a selection of types you can have cabbage growing all year round in temperate zones.",41,64,20,30,77,105,"{'dill', 'dwarf beans', 'marigold', 'thyme', 'celery', 'chamomile', 'beets', 'onions', 'rhubarb', 'sage', 'nasturtium', 'cucumber', 'bush beans'}",{3},{4},"{8, 9, 4, 7}","{'parsnip', 'strawberry', 'pole beans', 'mustard', 'capsicum', 'tomato', 'aubergine', 'climbing beans', 'eggplant', 'peppers (chili'}"
+15,2022-10-24 11:16:04.714982,"A straggling bush up to one metre tall that bears yellow fruits inside a brown papery envelope. It is perennial. 
+The cape gooseberry is related to tomatillo, ground cherry and husk tomato, all in the genus Physalis.
+Cape Gooseberry is very easy to grow and as the fruit are popular with birds the plants can be easily spread around the garden. If you have plenty of room then plants grow better with 1.5m of space. Spacing closer works but you may get less fruit.",50,77,39,59,98,112,set(),{3},{5},{5},set()
+16,2022-10-24 11:16:06.111826,"Small bushy plant about 40cm high.
+The seeds are reluctant to start germinating if temperatures drop at night. These are best sown in small trays in a warm, sheltered place: a small greenhouse if possible. Plant out when about 10 -12cm (4-5in) tall.
+They are from the same family as chilli but are not hot and spicy. The seeds and white flesh are bitter.
+Capsicums are frost tender and need warmth to ripen the fruit to the brilliant reds and yellows of commercial ones. They can be used green but are not as sweet.
+There are a number of colours available,  chocolate, black, yellow, orange as well as red. They all start off green and change as they ripen. 
+In cool, wet weather cover with a cloche or frost fleece.",64,95,8,20,70,84,"{'parsley', 'aubergine', 'amaranth', 'nasturtiums', 'basil', 'eggplant'}","{2, 3}","{4, 5}","{4, 5}",set()
+17,2022-10-24 11:16:07.542749,"Cardoon is a tender perennial from the same family as globe artichokes, grown as an annual for its young leaf-stalks.
+Blanch the stems. Tie the leaves together in a bunch and wrap paper or sacking around the stems. Or, form a hill of soil around the stem.
+Harvest  four to six weeks after blanching. Cut them off at ground level and trim off the outer leaves.",55,77,20,59,238,245,set(),set(),set(),{4},set()
+18,2022-10-24 11:16:09.889931,"A hardy root vegetable which grows well in deep cool soil. 
+Carrots take about 3 weeks to show themselves and the first leaves look like grass . 
+If broadcast sowing, mix with radish seeds which will germinate quickly and indicate the sown area. In hotter or dry areas, water well before seeding then cover with boards to maintain the moisture and cool soil for more successful germination. Check every week or so.
+Over fertilised ground will produce split roots.
+Protect against carrot fly. It is best to put carrots in a different area of the garden each year for four or five years.",46,86,2,12,84,126,"{'rosemary', 'celery', 'leeks', 'onions', 'radishes', 'sage', 'peas', 'tomatoes', 'beans', 'lettuce'}",set(),set(),"{3, 4, 5, 6, 7}","{'dill', 'beetroot', 'parsnips', 'brassicas', 'fennel'}"
+19,2022-10-24 11:16:11.332819,"Large leafed cabbage-like with a white 'curd' or flower forming in the centre. It can be hard to grow successfully. More frost sensitive than most brassicas, it's also not particularly heat tolerant. They tend to fail if stressed when transplanting.
+Watch for cabbage white butterfly.
+Grow better in cooler temperatures. Not suitable for warm areas.
+Break a leaf over the head to prevent the curd becoming discoloured",50,86,24,39,105,154,"{'dill', 'dwarf beans', 'marigold', 'celery', 'chamomile', 'beets', 'onions', 'rhubarb', 'sage', 'nasturtium', 'cucumber', 'bush beans'}","{2, 3}",{4},{4},"{'strawberry', 'pole beans', 'mustard', 'capsicum', 'tomato', 'aubergine', 'climbing beans', 'eggplant', 'peppers (chili'}"
+20,2022-10-24 11:16:12.772223,"A form of celery which has a swollen root and lower stem.
+Raise seeds in individual pots and plant out after last frost to give them plenty of time to develop a good root.
+Grow in a very fertile, rich soil. Water generously.
+In cold climates start under glass in late winter/early spring",46,70,18,31,98,196,"{'leeks', 'carrots', 'onions', 'sage', 'peas', 'tomatoes', 'beans', 'brassicas', 'lettuce'}",{3},{5},{5},set()
+21,2022-10-24 11:16:14.199663,"Most varieties improve with blanching but there are some self-blanching varieties available.
+To Blanch: plant in trenches 15- 20 cm (6-8 in) deep and 20cm (8in) apart. Leave about 40 cm (17 in) between rows. Fill the trenches gradually and keep well watered as the plants grow. The plants can be lifted to use, as needed after about 11 weeks. 
+Alternatively wrap the plants in sleeves of paper or black plastic.
+Celery needs moist fertile soil.",54,70,6,12,119,126,set(),"{2, 3}","{5, 6}",set(),{'sweetcorn'}
+22,2022-10-24 11:16:15.632158,"Harvest - to prepare to store for forcing at around 4-5 months . The second stage, blanching will take 8 - 12 weeks.
+To Blanch:- Lift the plants and cut off the leaves about 5cm (2in) above the roots. Shorten the roots to about 20-25cm (8-10in) and replant close together (3-5cm apart)in a pot filled with loose soil. Keep damp but not soggy.
+ Cover to exclude light and keep out of the sunlight, but not below 10 C (50 F)
+Exclude light until you use the witloof, if it goes green it will be bitter.",50,68,10,12,112,168,"{'tomatoes.', 'florence fennel', 'carrots', 'onions'}",{3},{5},"{4, 5}",set()
+23,2022-10-24 11:16:17.376523,"Small bushy plants. Dark green ovate leaves.
+Chilli need warm frost free weather, so protect with glass or plastic covers if planting outside in cooler areas.
+Most varieties need a long growing period to produce many fruit.
+There are many types of chilli. Some are more fiery than others. As a general rule, the smaller the pod the hotter the taste.",64,95,16,20,63,77,set(),{3},"{5, 6}","{5, 6}",set()
+24,2022-10-24 11:16:19.013427,"Large oval shape with crinkly light green leaves and white stems. Wider at the base.
+Grows easily from seeds. Prefers cooler weather.
+Best grown fast with plenty of fertiliser and water. 
+Watch for slugs and snails.",50,68,12,12,56,70,"{'dill', 'dwarf beans', 'marigold', 'potatoes', 'celery', 'corinander', 'chamomile', 'beets', 'onions', 'rhubarb', 'sage', 'nasturtium', 'cucumber', 'bush beans', 'lettuce'}",{5},{6},{6},"{'strawberry', 'pole beans', 'mustard', 'capsicum', 'tomato', 'aubergine', 'chili', 'climbing beans', 'eggplant', 'peppers'}"
+25,2022-10-24 11:16:20.752398,"Grass-like leaves in clumps. Likes full sun but not too dry.
+Chives are a perennial but die down in winter. You can dig up a small clump to pot up for indoor use in winter.
+Remove flowers to encourage a continuous supply of leaves.
+If weeding gets away from you, you can easily distinguish chives from grass because chives have a hollow leaf stem and onion smell.",50,86,2,2,49,77,"{'apples', 'parsley', 'tomatoes', 'carrots'}","{3, 7}","{8, 5}","{4, 5}",set()
+26,2022-10-24 11:16:22.490870,"Choko is only suitable for warmer climates but frequent hot nights will slow flowering. Fruit production is highest when night temperatures range from 59-68F (15-20C).
+Plant in a warm, unused corner of the garden. Leave the shoot sticking out of the ground and it will take off.
+Choko needs a long growing season, about 4 - 6 months but in that time it will spread and can be useful to cover old sheds or fences! 
+An average household would need one or two plants.
+Leaves rather like cucumber and some prickles on the fruit. 
+Some variation in fruit, with lighter green and few prickles depending on variety. The differences seem to be between countries eg USA, Australia, Malta.",59,86,39,39,119,119,{'cucumbers'},set(),set(),set(),set()
+27,2022-10-24 11:16:24.235451,"Leafy, green vegetable - heat tolerant so a good substitute for kale and cabbage in tropical areas. Also recommended for health reasons.
+For best flavor and texture, leaves should be picked before they reach their maximum size.",46,86,16,20,56,77,"{'dill', 'dwarf beans', 'marigold', 'celery', 'chamomile', 'beets', 'onions', 'rhubarb', 'sage', 'nasturtium', 'cucumber', 'bush beans'}",{3},{4},"{4, 5}","{'strawberry', 'pole beans', 'mustard', 'capsicum', 'tomato', 'aubergine', 'climbing beans', 'eggplant', 'peppers (chili'}"
+28,2022-10-24 11:16:25.668138,"Broadcast sow and thin to 45 cm apart. Grows to about 60cm.
+Harvest 30 -45 days
+A half-hardy herb with feathery leaves. . 
+Grows more reliably from seeds as coriander is liable to bolt to flower and seed when seedlings are transplanted. 
+Coriander is frost tender  but it doesn't like extreme heat. So in temperate zones  grow coriander during summer, in sub-tropical/tropical zones grow it during the cooler season.
+Needs a sunny spot and mulch to prevent drying out. Keep very well watered. If they dry out, then they will bolt to seed. Plant in successions (planting new seed every few weeks) to get a continuous supply.",50,77,18,18,30,45,"{'dill', 'cabbages', 'carrots', 'anise', 'chervil'}",{3},{5},"{4, 5}",{'fennel'}
+29,2022-10-24 11:16:27.300485,"Like lettuce in appearance and use, Lamb's lettuce is hardier.
+Not suitable for growing in warm areas.
+Grow quickly with a well enriched soil and keep watered - adding nitrogen every two weeks.",50,68,4,6,35,56,{'onions'},set(),set(),{3},set()
+30,2022-10-24 11:16:28.685639,"Cowpeas are heat and dry tolerant but frost will finish them. Can be grown in cooler areas if they are started under cover and planted out after last frost.
+They are an ancient food source and have probably been used since Neolithic times.",59,95,1,1,77,98,set(),set(),set(),"{4, 5}",set()
+31,2022-10-24 11:16:30.380339,"A trailing plant which will grow tendrils as it gets bigger. Cucumbers can be started in small peat pots then transplanted when weather is suitable.
+Lebanese cucumbers are best picked about 10 -12 cm (4 - 5 in) and eaten whole.
+Gherkins are usually picked 5 or 6 cm (2 - 3 in) long and pickled. They have a prickly skin.
+Apple cucumbers are round with a pale, almost white, smooth skin.
+Grow in full sun up a trellis or framework to save space and keep the fruit clean. Needs ties to support it at first.
+Water regularly and fertilise to encourage growth.",61,95,16,24,56,70,"{'cabbages', 'dill', 'sunflowers', 'celery', 'coriander', 'nasturtiums', 'sweet corn', 'beans', 'fennel', 'lettuce'}","{4, 5}","{5, 6, 7}","{5, 6}","{'potato', 'tomatoes'}"
+32,2022-10-24 11:16:32.117885,"A long white radish, milder flavour than the small round or oval radishes.
+Most varieties of Daikon prefer cooler weather. Have a tendency to 'bolt' or flower early in warm/hot weather. Choose a variety to suit your climate.
+Grow in deep soil and water regularly. They will grow as big as large parsnips if left but the best flavour seems to be when they are about the size of a carrot.
+Can be stored in the refrigerator for a couple of weeks if washed and dried and the leaves cut off.
+A range of varieties of Daikon is available, some will do better in warm areas.",50,68,6,6,56,70,"{'spinach', 'cress', 'leeks', 'tomatoes', 'strawberries', 'chervil', 'lettuce'}",set(),set(),{5},"{'hyssop', 'gherkins'}"
+33,2022-10-24 11:16:33.756508,"Dill is best grown as an annual.
+It is easy to grow from seed and will produce wispy leaves growing on a single stem about 75cm (30in) high, which can be harvested about eight weeks after sowing.
+Once the plant will begins to produce flower heads, the leaf production will stop.
+Dill, like most herbs, grows best  in the sun, but will tolerate afternoon shade.
+Dill grows up to 1M (36 in) tall, so plant it in the back of your flower, vegetable or herb garden. 
+Sow seeds close together. This will allow the plants, which blow over easily, to support each other.
+If you want to use dill seeds, let the seedheads  develop and dry completely, then cut them and hang them upside down by the stems in a paper bag. The seeds will dry and fall into the bag. They can then be stored in a glass jar.
+Repeat sow for a regular supply of leaves.",50,68,6,6,56,84,"{'cabbage', 'coriander', 'tomatoes', 'broccoli', 'fennel'}",set(),set(),"{5, 6}",set()
+34,2022-10-24 11:16:35.417438,"A large bushy plant with attractive purple flowers. Different varieties have different colours and sizes of fruit, ranging from the 'classic' large purple to the Thai small white varieties and Brazilian red.
+Has spiky stems. Wear gloves to harvest fruit as the spikes on the calyx are sharp enough to break one's skin.
+In cold climates grow in heated greenhouse and reduce artificial heat during summer.
+Perennial in tropical climates otherwise grown as an annual.
+Needs a long season. 
+Start under cover and plant out when frosts have finished.
+Some varieties with slim, long fruit such as Asian Bride produce their fruit earlier.
+Mulch well and keep well watered.
+May need staking",75,90,24,30,84,105,"{'thyme', 'capsicum', 'amaranth', 'beans', 'lettuce'}","{2, 3}",{5},{5},{'potatoes'}
+35,2022-10-24 11:16:37.136971,"This is a green leafy plant which looks a bit like a crinkly lettuce.
+Slightly bitter taste which can enhance a salad bowl but if this is not wanted the bitterness can be removed by blanching.
+Blanch by tying the leaves together when a rosette begins to form or cover with a large pot for about 3 weeks.
+Relative of chicory
+Best grown in cooler months as hot weather might make it bolt to flower.
+Keep well watered to reduce bitterness. Water at base as water trapped inside leaves will cause rot.",59,77,8,12,70,77,"{'carrots', 'sage.', 'cucumbers', 'beans', 'chervil', 'brassicas'}",{3},"{4, 5}","{4, 5, 6}","{'alliums', 'garlic', 'onions'}"
+36,2022-10-24 11:16:38.785831,"A tall plant with feathery looking leaves. The whole plant has an aniseed flavour, including the seeds. 
+Choose a place in the garden where it can self seed without causing too much trouble and there will be seedlings every year.
+Needs staking to protect the seed heads.
+Can grow to 1.5m (5 ft).
+Keep watered, otherwise the leaves dry off.",50,77,12,12,98,105,set(),{3},{4},{5},{'vegetables'}
+37,2022-10-24 11:16:40.484969,"This is a perennial grown as an annual as the stems become more fibrous with age.
+ Both seeds and leaves have a mild aniseed flavour.
+With its feathery leaves it makes a good background plant in a border. Grows to approx 1.5m (5ft)
+Can be repeat sown throughout the year or left to self seed.
+Fennel prefers well-drained fertile soil.",50,77,6,6,98,140,"{'sage', 'chicory', 'peas', 'cucumber', 'lettuce'}",{3},{4},{5},"{'tomatoes', 'beans'}"
+38,2022-10-24 11:16:42.152586,"French tarragon a half hardy perennial herb that is native of southern Europe. 
+It is frost tender - which may be one of the reasons that it is not particularly widely grown -
+French tarragon is easy to grow but rarely sets seeds. 
+It is propagated by division, or from cuttings. 
+Seed grown tarragon is usually Russian tarragon which does not have such a good flavour.
+French tarragon must have a sunny position 
+The site should be sheltered from winds and winter frosts. Keep well watered in dry weather.
+In autumn, mulch plants with a thick layer of straw or similar, to protect it over the winter.
+Tarragon prefers well-drained soil which is not too high in nutrients. It will do equally well in full sun or partial shade.Â",50,77,16,24,30,40,"{'capsicum', 'peppers', 'aubergine', 'eggplant'}",{3},{4},"{4, 5}",set()
+39,2022-10-24 11:16:43.896993,"Garlic is traditionally planted in cold weather and harvested in summer (""plant on the shortest day, harvest on the longest""). Plant the cloves (separated from the bulb), point upwards, deep enough to just cover with soil. A fairly tough and easy-growing plant but in better soil with regular watering you will get a better crop. On poorer soil, and forgetting to water them, you will still get some garlic, only not quite so much, maybe just a single large bulb.
+Leave a garlic to go to seed, and you will probably get plenty of self-sown plants the following year.
+To keep for later use, dig up and leave to dry out for a day or so after the green shoots die down. To use immediately, pull up a head when you need it, or cut and use the green shoots.",50,95,4,5,119,175,"{'dill', 'beets', 'carrots', 'cucumbers', 'tomatoes', 'parsnips'}",set(),set(),"{9, 10}","{'potatoes', 'peas', 'beans', 'brassicas', 'asparagus'}"
+40,2022-10-24 11:16:45.557022,"Ginger is a warm climate plant. It can be grown indoors in pots in cool/temperate areas. To grow well it needs lots of water and nutrients.
+Prepare the soil by adding compost which will retain some moisture but not get saturated. Add a small amount of sand to ensure drainage. Water regularly in summer to keep moist. In a pot, in addition to watering to keep moist, water ginger about once a fortnight with a seaweed or other liquid fertilizer.
+This perennial will die down in autumn. Remove the dead leaves. In spring lift the root clumps and break them up into smaller pieces to replant.
+Harvesting Ginger
+You can harvest ginger root after the plant dies down in winter, digging around the plant to cut off a piece of the older root. The young root with shoots is the actively growing plant and should be left to resprout. 
+You can also carefully dig down under the plant through the growing season to cut off bits of the older root for use, just be careful not to disturb the rest of the plant too much.
+Let plants become well established before harvesting - it is often best to wait until the second growing season.
+Make sure that you have edible ginger. Ginger plants sold in nurseries are usually decorative varieties and not suitable for eating. 
+Ginger can be grown in pots. The best growing temperature is around 25 - 30C (75-85F)",68,86,6,6,175,175,set(),set(),set(),set(),set()
+41,2022-10-24 11:16:47.276054,"Horseradish is grown from root cuttings. If you know someone who has it in their garden, just one piece of root will start off for you.
+Dig a deep hole and refill with compost as the horseradish has a long taproot. Plant it and then leave it alone. Apart from constant wet or cold, horseradish will grow in any part of the garden. 
+Horseradish is an aggressive grower and will quickly take over the garden. It will also grow well in a deep container or sink an old bucket in the ground to prevent spreading. Otherwise, remove all the plant when you harvest it and save one piece to replant.
+Can be planted in early Autumn or Spring",50,77,20,20,112,168,set(),set(),set(),"{3, 4}",set()
+42,2022-10-24 11:16:48.935863,"These are the edible root of a sunflower. Plant the tubers deep enough to cover with soil. They are quite drought-tolerant, but keep well-watered to grow larger tubers. They grow through the summer to 1.5m-tall sunflowers with a smallish flower. Dig up the tubers when the flowers die down in autumn. 
+Get a couple of tubers from the supermarket or fruit shop. Two years after planting you will probably have enough to give away. Perennial, if you don't manage to harvest all the tubers they will regrow year after year.",46,59,12,18,105,140,"{'cucumbers', 'tomatoes'}",set(),set(),{4},set()
+43,2022-10-24 11:16:50.657330,"Green leafy plant. Kale is a good addition or substitute for cabbage varieties.
+Cavalo Nero can be grown in slightly smaller spacing.
+Very winter hardy. Flavour is  improved by frost. Ornamental varieties are colourful, and edible.
+Rotate with other crops to avoid clubroot infection.",46,86,20,39,49,70,"{'dill', 'dwarf beans', 'marigold', 'camomile)', 'celery', 'beets', 'onions', 'rhubarb', 'sage', 'nasturtium', 'cucumber', 'bush beans'}",{2},"{3, 4, 5}","{3, 4, 5}","{'strawberry', 'pole beans', 'mustard', 'capsicum', 'tomato', 'aubergine', 'chili', 'climbing beans', 'eggplant', 'peppers'}"
+44,2022-10-24 11:16:52.389986,"The swollen stem looks like a turnip with reddish/purple cabbage leaves, usually purple or greenish white skin.
+Protect from cabbage white butterflies",46,86,4,10,49,70,"{'dill', 'marigold', 'celery', 'chamomile', 'beets', 'onions', 'rhubarb', 'sage', 'nasturtium', 'cucumber'}",set(),set(),"{4, 5, 6}","{'strawberry', 'pole beans', 'mustard', 'capsicum', 'tomato', 'aubergine', 'chili', 'climbing beans', 'eggplant', 'peppers'}"
+45,2022-10-24 11:16:54.131730,"A member of the onion family.
+Looks rather like a large scallion or spring onion
+Grow in seed trays or punnets until about 20cm (8in) tall. They look rather like large blades of grass at that stage. 
+Then plant out into trenches or individual deep holes. The aim is to blanch the stems while the plants are growing.
+Trenches should be about 20-25cm (8-10in) deep. Set the seedlings 10-15  cm (4 - 6in) apart then add enough soil to just cover the roots. As the plants grow fill the trench.
+Otherwise - make holes with a dibble or suitable stick 15 cm (6 in) deep and 3-4 cm (1.5 - 2 in) wide. Drop a seedling in each and water enough to cover the roots with soil. As they grow, watering will gradually fill the hole.
+Leeks prefer moist clay soils.  Keep soil moist and loose, mulch will help.",46,86,4,8,105,126,{'carrots'},"{2, 3}","{4, 5}","{4, 5, 6}",set()
+46,2022-10-24 11:16:55.774265,"Lemon balm will grow from seed or cuttings. It self seeds readily and can become a nuisance if not checked.
+Leaf shape is somewhat like mint and it likes to spread in the same way.
+Pleasant lemon scent, released when a leaf is crushed.
+Will grow in sun or part-shade. Lemon balm is shallow rooted so needs some water in hot dry weather. Does not like constant wet soil though.
+Attracts bees.",50,77,10,10,56,70,set(),{4},{5},{5},set()
+47,2022-10-24 11:16:57.515875,"Lettuce offer a range of shapes, sizes and colours but they are all easy to grow.
+Choose a variety marked on the seed packet as suitable for the time of year as some do badly in the very hot months.
+Try to provide some shade to prevent them 'bolting' to flower and seed in the hottest months.
+Sow in rows and use thinnings as small salad greens
+Lettuce are shallow rooted so water daily in hot or dry weather to prevent bitter flavour. and bolting.",46,81,8,12,56,84,"{'marigold', 'borage', 'florence fennel', 'beets', 'carrots', 'onions', 'radish', 'leeks.', 'strawberries', 'chervil', 'brassicas'}","{2, 3}","{4, 5}","{4, 5, 6, 7}","{'celery', 'parsley'}"
+48,2022-10-24 11:16:59.258354,"This type of squash while not strictly a vegetable can be eaten when young. They are more commonly grown to use when mature and dried.
+The plants need warmth to grow successfully. Keep inside until all risk of frost is gone.
+They grow on vines similar to cucumbers. 
+A large loofa  makes a great back scratcher. Luffa can be cut into many shapes for scrubbing pads, padding, and other uses.",68,86,18,30,77,84,"{'sweetcorn', 'peas', 'beans', 'onions'}","{4, 5}",{6},{6},{'potatoes'}
+49,2022-10-24 11:17:00.992103,"This is  a large, well grown version of zucchini/courgette. Skin maybe light yellow or white. 
+Grow on raised mounds of earth/compost. Mulch to retain moisture and reduce weed growth.
+Powdery mildew can be a problem especially in humid weather.",68,95,35,47,84,119,"{'sweetcorn', 'peas', 'beans', 'onions'}","{3, 4}",set(),"{5, 6}",{'potatoes'}
+50,2022-10-24 11:17:02.432238,"Although mint can be grown from seeds, cuttings are a faster, more reliable option. 
+Cuttings can be planted directly when danger of frost is past.
+Mint can be grown in pots outdoors or indoors
+Mint prefers damp, partly shaded areas and once established will grow for many years.
+Mint dies down in Winter and sends up new shoots in Spring.
+Mint is a rampant grower and will take over a garden bed if not restrained.
+One way to contain mint is to use an old bottomless bucket pushed into the ground. The mint won't be able to put its roots out sideways, so will take longer to spread.
+If grown in a pot, mint needs to be watered regularly to keep it healthy.",70,75,12,12,56,84,"{'cabbages', 'tomatoes'}",{2},{4},"{4, 5}",set()
+51,2022-10-24 11:17:04.074351,"Mizuna and Mibuna are both grown for their leaves.
+Fast growing plants which have a mild mustardy flavour when young.
+Tolerates light shade. Tends to bolt in hotter weather. Grows well in pots and containers - keep mulched and well-watered.",50,86,6,8,35,50,"{'lettuce', 'radish'}",set(),set(),{3},set()
+52,2022-10-24 11:17:05.809933,"Green leafy plant, popular for Asian cooking.
+Grow fast with plenty of water and regular feeds of liquid manure to avoid bitterness. Pick young.",50,95,14,24,35,56,"{'dill', 'dwarf beans', 'marigold', 'camomile)', 'celery', 'beets', 'onions', 'rhubarb', 'sage', 'nasturtium', 'cucumber', 'bush beans'}",{3},"{4, 5}","{4, 5, 7}","{'strawberry', 'pole beans', 'capsicum', 'tomato', 'aubergine', 'chili', 'climbing beans', 'eggplant', 'peppers'}"
+53,2022-10-24 11:17:07.548742,"NZ spinach has green, triangulated leaves and a spreading habit.
+This is a coastal plant which natively grows on dune edges. It survives salt-spray in coastal gardens.
+It can withstand hot, dry summer weather when real spinach tends to die off.
+Will self-sow and become widespread.
+Soak seeds for one or two hours before sowing as the outer skin is hard.",64,95,18,24,56,70,set(),{3},{5},{5},set()
+54,2022-10-24 11:17:09.225754,"Raise seedlings in a similar way to capsicums - warmth is essential.
+Pick pods when they are about 5 - 8 cm (2-4 inches) long. Cut the stem below the pod with a knife. If the stem is too tough to cut then the pod is probably inedible!
+Wear gloves when picking as okra are often covered in tiny irritating hairs (which disappear when cooked)",68,95,14,24,77,98,"{'capsicum', 'aubergine', 'chili', 'eggplant', 'peppers'}",{3},{5},{5},set()
+55,2022-10-24 11:17:10.625502,"Onions come in a range of colours and shapes and sizes. 
+Brown :- strong flavour and pungent. Usually good keepers for storage.
+White :- milder but still flavoursome. Keep fairly well.
+Red :- Mild, suitable to use raw in salads and sandwiches.
+The seedlings should be allowed to gain a bit of strength before planting out - usually 4 to 6 weeks will be enough. When they are big enough to handle, you can plant out. They start off looking like blades of grass.
+They don't have to be in a greenhouse (though that would be ideal), any sheltered spot will do. The idea is to guard against rapid changes of temperature, especially at night.
+Onions can be bought as young plants (sets or seedlings) from garden shops/nurseries to plant straight into garden beds.
+Choose your variety according to your climate and the time of year as some onions will grow better in the cooler months .
+Onion bulbs should sit on the surface of the soil. Do not cover.
+They will take six to eight months to mature. Onions are ready when the tops start to dry and fall over.
+Pull them and leave to dry for a few days.
+Store in a cool, dry airy place. Use a net bag or make a string by weaving the tops together.",46,86,2,4,175,238,"{'borage', 'silverbeet', 'amaranth', 'lemon balm', 'beets', 'carrots', 'lettuce'}",{2},set(),"{3, 4}","{'peas', 'beans'}"
+56,2022-10-24 11:17:11.946444,"Perennial growing to around 45 cm (17"") high. Cut the stems back to the ground to encourage new growth.
+There are two main varieties.
+""Greek Oregano"" is the type normally associated with Oregano flavor. 
+""Common Oregano"" or Marjoram has a less pungent, sweeter taste and is more commonly grown.
+For best flavour harvest in the morning just after the dew has lifted.
+Easily propagated from root division. It can be hard to germinate seed. Can be grown from cuttings.",64,77,6,6,42,56,{'broccoli'},{3},{5},"{4, 5}",set()
+57,2022-10-24 11:17:13.586444,"Similar to Chinese cabbage but the leaves are smoother and the stalks are longer and thicker.
+Grows quickly and will also go to seed quickly in hot weather.
+Best grown in cooler months.
+Needs plenty of water.",70,86,12,16,42,77,"{'dill', 'dwarf beans', 'marigold', 'potatoes', 'celery', 'corinander', 'chamomile', 'beets', 'onions', 'rhubarb', 'sage', 'nasturtium', 'cucumber', 'bush beans', 'lettuce'}",{3},{4},"{4, 5}","{'strawberry', 'pole beans', 'mustard', 'capsicum', 'tomato', 'aubergine', 'climbing beans', 'eggplant', 'peppers (chili'}"
+58,2022-10-24 11:17:14.925404,"Takes a long time to germinate, about 3 - 5 weeks before the seedlings appear.
+Grows to about 20 -30cm (8 -10in) until it flowers when the stems will shoot up to about 1m (3ft) .
+The useful leaves disappear when parsley flowers so it is best to have some more seedlings ready to plant.
+Will self seed and produce plenty of new plants every year.
+Can survive snow and light frosts",50,86,8,12,63,133,"{'asparagus', 'chives', 'tomatoes', 'carrots'}",{3},{4},"{4, 5, 6}",{'potatoes'}
+59,2022-10-24 11:17:16.600766,"Best grown in deep sandy, loamy soil. Use fresh seed and soak seed overnight then, after planting, keep seeds moist until seed germinate. Similar to starting carrots, maybe cover with a wooden plank or mulch until seeds germinate. They will completely fail if the seed dries out after planting and it's not unusual to have an entire packet fail. Difficult to grow in summer as the seed dries out fast and won't germinate.
+Leave in the ground until after frost or at least a couple of weeks of really cold weather.
+The cold results in the starch in the roots being converted into sugars which give the parsnip its sweet taste. Use a spade to dig the parsnip out of the ground.
+Germination rates of parsnip seed are not great so sow about 3 seeds per inch and at a depth of around half an inch. Germination may take up to 20 days.
+Thin seedlings down so they are about 8cm (4in) apart. If you are planting in rows then space the rows about 50cm (20in) apart.",43,70,3,4,119,140,"{'potatoes', 'silverbeet', 'swiss chard', 'capsicum', 'radishes', 'peas', 'garlic', 'beans'}",set(),set(),set(),"{'celery', 'brassicas', 'carrot'}"
+60,2022-10-24 11:17:17.851685,"Peas are best grown in cooler seasons.
+Peas need some support when growing, tree prunings with lots of small twigs are a cheap and handy source.
+Or else strings between posts or wire netting. the peas need tying in the early stages, until they start producing tendrils and clinging to the support.
+Some pea varieties are called 'dwarf' but to make harvesting easier it is a good idea to support the plants.
+Pick pea pods while young and pick them often to keep them producing.",46,75,2,3,63,77,{'potatoes'},set(),set(),"{3, 4, 5}",set()
+61,2022-10-24 11:17:19.551180,"Seed potatoes
+Potatoes sold in nurseries and produce stores are certified seed potatoes. Seed potatoes are small potatoes (usually fairly dried up and wrinkled) which are free of viruses and other diseases. You are more likely to get a good crop from certified seed potatoes.
+Before planting expose seed potatoes to light to start shoots growing. Avoid direct sun as this can burn or par-cook the seed! Let the potatoes grow shoots up to 1cm long - this can take a few weeks.
+In hot or dry climates sprout seed potatoes in seed trays of dampened potting mix.
+Large seed tubers can be cut into pieces - just make sure each piece has at least one 'eye' or shoot. Let the cut pieces dry for a few days before planting or else they will probably start rotting.
+Growing in the ground
+Prepare the soil by digging in plenty of well-rotted animal manure or compost (don't use fresh manure as it will 'burn' plants). Dig a trench for the seed potatoes about 30 - 40cm wide and 10 - 20cm deep. Add a bit more compost/manure to the bottom of the trench and cover with some soil. Put seed potatoes 20 - 30cm apart in the trench, shoot-side up. Fill in the trench to cover the potatoes.
+As potato shoots start to appear, cover them up with soil from either side of the trench. 'Hill up the crop' this way a few times in the first four or five weeks of growth, which gives the potatoes an nice loose mound of soil in which to grow. Now leave the shoots to develop on to form leaves.
+Keep potatoes well-watered. The soil should be damp enough to stick to your fingers.
+No-dig and container growing - ideal for home gardens
+If you don't have a ton of space then no-dig and container growing both work well for home garden growing. Using container growing you can produce potatoes in any handy space, even on balconies.
+No-dig
+Make a no-dig bed of potatoes by layering newspapers (or flattened cardboard boxes) at least six layers thick on an area to be planted. Spread your seed potatoes on top of the newspapers about 30cm apart, trying to get the shoots pointing upwards.
+Cover the potatoes with layers of compost, weed-free straw, rotted animal manure, and other mulch materials, until the potatoes are covered by about 20 - 30cm. Don't flatten the cover down.
+Water well. As the potatoes start to grow through, add more layers of mulch material and keep watered. After about four weeks of growing through and covering up, let the potatoes grow on without covering. As the mulch breaks down keep adding more mulch to keep the tubers covered.
+Container growing
+Get a container at least 40 - 50 cm deep with holes in the bottom for drainage. Shrub-sized flower pots work well. An old wheelbarrow will work if holes are drilled in the bottom. You can also make a 'container' using loose bricks or chicken wire.
+Put about 10 - 20cm of mixed compost and potting mix in the bottom of the container and put your seed potatoes on top, about 30cm apart. Cover with about 10 - 20cm of compost mixed with mulch (straw, grass clippings. Water well.
+As the potato shoots start to grow through, cover up with more compost and mulch mix and keep watered. Keep on covering up for about four weeks (but stop if you reach the top of the container!)
+For both no-dig and container growing, keep the mulch well watered - wet enough to stick to your fingers but not sopping. If the potatoes dry out they will probably go scabby.
+
+The longer potatoes grow, the bigger the tubers will be.
+Don't grow potatoes in the same place as other solanum crops as they share many diseases - for example, don't grow potatoes to follow a tomato crop, or vice-versa.
+You can start harvesting a few tubers as soon as they are big enough to eat - dig around under the plants and retrieve a few, and cover up the rest to keep growing.
+Potatoes exposed to light will go green, so keep them covered up with straw and soil as they grow. Green potatoes are poisonous!
+Potatoes accumulate cadmium and other heavy metals, so avoid fertilizers which contain these elements. Similarly, avoid using tyres as containers for growing potatoes as they can leach heavy metals.",50,86,12,16,105,140,"{'marigolds', 'nasturtiums', 'peas', 'beans', 'sweetcorn', 'brassicas', 'broad beans'}",set(),set(),"{4, 5}","{'sunflowers', 'rosemary', 'tomatoes', 'cucumber', 'pumpkin'}"
+62,2022-10-24 11:17:21.236159,"A large trailing plant with yellow, bell-shaped flowers, pumpkin is frost tender. Most varieties will take up a lot of room . Grow them at the edge of your garden patch so that they can spread away from other vegetables.
+Butternut produces small to medium  pear-shaped fruit with deep orange flesh .
+Buttercup are small to medium round pumpkins with dark green skin.
+There are a number of large pumpkins, some round and flattish - good for storage and eating - others will produce the ""Cinderella coach"" type giant round fruit which are not such good eating.
+Harvest when the vines die off and the pumpkins' stalks are dry. Leave a small piece of stalk attached to the fruit to prevent damp causing rot. The fruit can be stored  for months in a cool airy place. In some parts of New Zealand, they are stored on shed roofs. 
+Pumpkins sometimes need hand pollination if the fruit are not setting well or die off after starting to grow, try picking a male flower (straight stem) and gently brushing pollen inside female flowers.",68,90,35,47,105,140,{'sweet corn'},"{2, 3}",{5},{5},{'potatoes'}
+63,2022-10-24 11:17:22.701418,"Small, spicy tasting root vegetable usually round but some longer varieties .
+Available in a range of colours between red and white.
+Very easy to grow. 
+Good for a child's first garden as seedlings appear in two or three days. 
+Sow between other vegetables as they will mark the rows until the slower germinating plants appear.",46,86,1,2,35,49,"{'spinach', 'cress', 'leeks', 'tomatoes', 'strawberries', 'chervil', 'lettuce'}",set(),set(),"{8, 3, 4, 5}","{'hyssop', 'gherkins'}"
+64,2022-10-24 11:17:24.450859,"Rhubarb is easy to grow in cool climates and  is a perennial. Rhubarb can be left in the ground and will return a crop for many years, at least 10 to 15 years (We have one that is more than 20 yrs old).  Rhubarb is quite a hardy crop but the crown will rot if in heavy wet clay soils. It can cope with dry periods.
+Plant in good soil and remove as many weeds as possible. Do not disturb rhubarb roots when cultivating round the plant.
+Better in cooler climates, but can be grown in shady areas of warm climates.
+You can lift and divide rhubarb to make more plants . It is best to do this when the plant is dormant ( or at least less actively growing) in winter or late autumn.
+It is best to wait until a plant is about 5 years old before dividing the crown but it can be moved at any age. Some of the root structure will be damaged when lifting it, so stalk production will not be so good for a few months.
+If you have mild winters and your rhubarb is still producing new stalks, you can continue to pick it.
+Although rhubarb is used in desserts and jams, it is considered a vegetable because the stalks are used not the fruit.
+NB Do not eat the leaves or roots as they contain oxalic acid which is poisonous. They should not be fed to poultry or stock either.
+Remove flower stalks as they appear as the plant will stop producing leaf stalks when flowering.
+Rhubarb can be 'forced' by covering dormant crowns with clay pots or a cloche in early spring.",41,68,35,35,365,365,"{'cabbage', 'cauliflower', 'broccoli'}",set(),set(),{4},set()
+65,2022-10-24 11:17:26.185353,"Plant every 2 to 3 weeks for a continuous supply.
+Leafy green plant with lobed, dark green leaves.
+ It has a slightly spicy, nutty flavour.  The spiciness intensifies as the plant gets older.
+Frost tender. 
+Keep well watered in well drained ground.
+Will go to flower rapidly in hot dry weather.",50,77,6,8,21,35,{'lettuce'},{3},{4},"{8, 4, 5}",set()
+66,2022-10-24 11:17:27.622059,"Start in small pots then transplant when no danger of frosts.
+Plant into a raised mound to provide good drainage and warmth.
+Provide plenty of water.
+Ready to use when the fruit falls from the vine
+In cold climate regions start the seeds in a heated greenhouse with plenty of light in order to have a long enough growing season.
+Rockmelons may need hand pollination with a soft brush.",68,90,16,24,70,112,"{'sweetcorn', 'sunflowers'}","{3, 4}","{5, 6}","{5, 6}",{'potatoes'}
+67,2022-10-24 11:17:28.979567,"This frost tender annual grows to a height of 2 metres.
+It is grown for its red fruit which make delicious jam or jelly.
+Rosella needs a growing season of at least 6 months warm weather so is best suited to tropical or sub-tropical areas.
+Can be started under glass in cooler areas.
+Water well and give a dressing of fertiliser when flowering starts.",68,95,55,55,147,175,"{'feverfew', 'coriander', 'nasturtiium', 'hyssop'}",set(),set(),set(),set()
+68,2022-10-24 11:17:30.592071,"Rosemary will grow from seeds but this is not recommended as the success rate is very low. Small cuttings are easy to grow. Put in light, sandy soil where you want your plant to grow or start in small pots and plant out when established.
+Rosemary comes from warm Mediterranean areas but adapts well to colder climates. In areas of heavy frost, a cutting potted up and kept in a sheltered spot will insure against total loss of your plant over winter.
+Dryness suits rosemary, so well-drained soil and sunshine will be best.
+Once established rosemary can be harvested all year round.
+Rosemary grows well in patio pots or tubs.",59,68,39,59,365,365,"{'sage', 'carrots', 'cabbages', 'beans'}",{4},{5},set(),{'potatoes'}
+69,2022-10-24 11:17:32.330170,"Member of turnip family
+Round root vegetable with creamy white flesh and reddish purple leaves.
+They take about 3 to 4 months to grow.
+Grow where beans or peas have been grown the year before.",45,77,4,8,70,98,"{'chives', 'peas', 'beans'}",set(),set(),"{8, 7}",{'potatoes'}
+70,2022-10-24 11:17:33.736147,"Sage grows well from seeds but it is slow developing. 
+One plant will usually be enough for the average household. 
+A plant grown from a cutting will be ready to use in about 3 months.
+Stake or protect from strong winds, otherwise the plant may snap off the main stem.
+Sage will grow almost anywhere as long as it is in full sun for most of the day.
+Sage does not like soil that is moist all the time - Avoid frequent watering even in the middle of the summer.",50,77,20,20,540,540,"{'broccoli', 'cauliflower', 'rosemary', 'cabbage', 'carrot'}",set(),set(),{4},set()
+71,2022-10-24 11:17:35.359655,"This root vegetable is not seen in supermarkets but is as easy to grow as carrots or parsnips.
+It is a fairly slow growing vegetable but can be harvested in small amounts as required. The ground can be loosened with a fork and a few roots lifted for use.
+Scorzonera is a variety of salsify which has  black skin on the root.",50,86,6,8,98,147,"{'kohl-rabi', 'endive', 'spinach', 'alliums', 'leeks', 'carrots', 'beans', 'celeriac', 'brassicas', 'lettuce'}",set(),set(),"{4, 5}",set()
+72,2022-10-24 11:17:36.993155,"Likes a well-drained soil in full sun.
+A small spindly bush with dark green leaves and white or pink flowers. The leaves are pungent and spicy
+About 30cm (12 in) high.
+Useful to attract bees and butterflies.
+ . 
+This is an annual plant and won't survive frost - cut it before the first frost and hang to dry. Then use the crushed or crumbled leaves.
+Plant in succession to extend useful life.",64,86,10,10,42,70,"{'beans', 'onions'}",set(),set(),"{4, 5, 6}",set()
+73,2022-10-24 11:17:38.610624,"Grow this perennial herb in light, well drained soil in full sun.
+Winter savory is a small shrub with small, dark, green leaves. 
+Will make a decorative low hedge if trimmed.
+Winter savory propagates better from cuttings than seeds. 
+It will survive all but the hardest winters if it is mulched well before frosts.",64,86,12,16,42,70,{'beans'},"{3, 4}",{5},"{5, 6}",set()
+74,2022-10-24 11:17:40.264555,"Shallots are grown from small bulbs kept from the main plant. Once they are established, you can keep your supply going indefinitely by saving a few bulblets each year.
+A type of small mild multiplying onion, popular in French cooking.
+Tree onions or 'walking onions' produce bulbs at the top of the stem.  
+Shallots are not spring onions and are quite different to the green bunching ""Eschallots"" (Allium fistulosum) which, just to confuse us, are also called shallots in Eastern Australia.
+They are more like garlic in their growth as they form a clump of bulbs at the base of the stem.",46,86,6,8,84,105,"{'borage', 'silverbeet', 'amaranth', 'lemon balm', 'beets', 'carrots', 'lettuce'}",set(),set(),"{9, 3}","{'peas', 'beans'}"
+75,2022-10-24 11:17:41.918211,"Edible dark green glossy leaves with wide white or cream stalks produced over a long period. Some varieties have red, yellow or orange stalks. They are all edible. Both leaves and stalks are eaten. This is a cut and come again plant, providing leaves for some months before going to flower. Can re-sprout from around the base if cut off when it starts to flower.
+Reasonably frost and heat tolerant. Grows well in most soils. For prolific growth apply compost, or well-rotted manure. Resistant to most plant diseases.
+The multi-coloured ones look good in a flower border.",50,86,6,12,49,84,"{'parsnip', 'cauliflower', 'cabbage', 'tomato', 'lavender', 'chives', 'onion', 'garlic', 'beans'}",{2},{4},"{3, 4}","{'potato.', 'squash', 'corn', 'most herbs', 'melons', 'melon', 'cucumbers', 'cucurbit', 'gourds'}"
+76,2022-10-24 11:17:43.554583,"They are similar to garden peas but have a softer pod .
+Snow peas are best grown in cooler seasons.They need some support when growing, tree prunings with lots of small twigs are a cheap and handy source. Or else strings between posts or wire netting. the peas need tying in the early stages, until they start producing tendrils and clinging to the support.
+Will not grow well in hot weather.
+Protect seeds from birds and mice.
+Pick early and often before the pods become tough.
+Start in pots in frost prone areas.",46,68,3,4,84,98,"{'endive', 'florence fennel', 'carrots', 'brassicas.', 'winter lettuce'}",set(),set(),"{3, 4, 5}","{'alliums', 'chives', 'tomatoes'}"
+77,2022-10-24 11:17:45.230534,"Green leaf crop.
+Spinach grows best in cooler weather and quickly runs to seed in warm weather. 
+Can be sown in Fall/Autumn and overwintered if protected by mulch.
+Not recommended to grow in warm areas.
+Alternatives suitable for warm areas are Swiss Chard (Silverbeet) or NZ spinach.
+Will not grow well in acid soil.
+Succession sowing will provide a supply through the winter months.",50,77,8,12,35,77,"{'strawberry', 'cauliflower', 'cabbage', 'celery', 'aubergine', 'onion', 'fava', 'peas', 'eggplant', 'broad beans', 'santolina'}",set(),set(),"{8, 9, 4}",set()
+78,2022-10-24 11:17:46.868164,"Can be grown from 'sets' ie seedlings brought on earlier.
+Spring onions are grown close together and harvested before fully mature.
+Do not like to be too dry.  Best in a sheltered, sunny spot.
+If you are growing onions from seed, you can use the 'thinnings' as spring onions",50,68,-1,-1,56,84,"{'borage', 'silverbeet', 'amaranth', 'lemon balm', 'beets', 'carrots', 'lettuce'}",{2},set(),{4},"{'peas', 'beans'}"
+79,2022-10-24 11:17:48.503334,"Start in individual pots then transfer when all risk of frost is past.
+For succession, later plantings can be straight into the ground.
+Fast maturing squash varieties for summer growing.  Not suitable to store like pumpkins.
+Usually grown to pick when young and used without removing rind or seeds.
+Zucchini/courgette (see under Z) is also a variety of squash
+Protect from frost.
+Water well. Grow on well mulched, raised area. Shelter from strong winds.  
+A spray with a 5gm/teasp Bicarbonate of Soda in 600ml/pint of water will help slow powdery mildew when it appears.",70,95,24,31,49,56,{'sweet corn'},{3},"{4, 5}","{4, 5}",set()
+80,2022-10-24 11:17:50.250370,"Alpine strawberries are the easiest to grow from seed. They produce tiny, triangular fruit with an intense flavour. 
+Chill the seeds, in a closed jar or plastic box,   2 - 4 weeks in a home freezer. Allow to return to room temperature in the closed container before sowing.
+Sow seeds thinly on seed raising mix/compost. Cover with a thin layer of  compost and water in.
+Keep under cover, either in a greenhouse or indoors near a window. Germination takes 2 to 8 weeks. Plant out into small pots to grow on when 3 leaves have appeared. Then transplant to garden when well grown.
+After about a year the strawberries will form low-growing leafy plants,between 12 - 15cm (about 6 inches) high and will spread to about 50 - 100cm (20 - 40 inches). They have five petalled flowers, usually white or sometimes pink. The flowers are followed by delicious red fruits which have their seeds on the outside. Later in the season, the plants send out runners like thin stems across the garden. They will take root to form new plants.
+Protect your plants with some sort of netting or bird scarer or you will lose most of your crop. 
+Strawberries like  well drained soil with plenty of humus. To prepare your bed, dig in some compost before planting and possibly use a liquid fertiliser during the growing season. Well fed strawberries taste better.
+To protect the fruit from moulds use some form of mulch around the plants. Straw, pine needles, or black plastic are all suitable. Mulch will also help suppress weeds.",50,68,12,39,365,365,set(),"{2, 3}",{5},"{5, 6}",set()
+81,2022-10-24 11:17:51.618485,"Strawberries are low-growing leafy plants which grow 12-15cm (about 6 inches) tall and will spread to about 50-100cm (20-40 inches). They have five petalled white or pink flowers. The flowers are followed by the delicious red fruits (which have their seeds on the outside). 
+Later in the season the plants send out runners like thin stems across the garden which will take root to form new plants. Cut them off and leave the parent growing. You can transplant the runners or let them grow where they rooted to produce new plants.
+At the end of fruiting, trim off old yellow leaves and clean up any mouldy fruit still attached.
+Strawberries like well drained soil with plenty of humus. To prepare your bed, dig in some compost before planting and possibly use a liquid fertiliser during the growing season. Well fed strawberries taste better.
+To protect the fruit from moulds and mildew use some form of mulch around the plants. Straw, pine needles, or black plastic are all suitable. Mulch will also help suppress weeds.
+Protect your plants with some sort of netting or bird scarer or you will lose most of your crop! 
+Strawberry plants often need replacing after a few years as they get affected by viruses and stop producing well.",50,68,12,39,77,77,set(),set(),set(),"{5, 6}",set()
+82,2022-10-24 11:17:53.321328,"Sunflowers need full sun and grow best in fertile, well-drained, moist soil with plenty of mulch. Sunflowers do not like to be transplanted so are best grown direct from seed. The giant or Russian varieties are preferred for seed production
+Grow to 1 - 2 metres (4 - 6 ft) so need staking or protection from the wind.
+Protect seed heads from birds when ripening with nets or paper bags.
+Chickens love a sunflower head hung for them to peck!",50,86,8,18,70,77,"{'sweetcorn', 'melons', 'cucumbers', 'squash'}",set(),set(),"{5, 6}",{'potatoes'}
+83,2022-10-24 11:17:55.065580,"Plant in 4 by 4  blocks to encourage germination
+Pick when the silky threads on the cobs turn brown or black. Part the top of the leaves and test for ripeness by pressing a grain with your fingernail. If it is milky, it is ready.
+Early varieties ripen quickly and are sweeter when just picked.
+Avoid planting coloured maize ( for drying) near sweetcorn as they will cross-pollinate and spoil the cobs on both.",61,95,8,12,77,98,"{'all beans', 'squash', 'amaranth', 'melons', 'peas', 'cucumber', 'pumpkin'}",set(),set(),"{5, 6}",{'celery.'}
+84,2022-10-24 11:17:56.693334,"Sweet marjoram, from the same family as oregano, is a fragrant and useful herb.
+The name Knotted Marjoram comes from the way the flowers are collected into roundish close heads like knots. 
+Can be sown direct but the seeds are very small and should be very lightly covered, so it is easier to sow in boxes and plant out at about 15cm to 20 cm tall.
+It does well in a container and can be grown under cover for use during the winter. It hates winter cold and wet  and does best with a temperature of 22C during the day and 15C at night.",50,77,8,8,56,70,"{'capsicums', 'chilis', 'sage', 'peppers'}",set(),set(),set(),set()
+85,2022-10-24 11:17:58.444020,"Sweet Potatoes require a long warm growing season. 
+Plant in free draining loose soil .
+Fertilise before planting but no more when the plants are growing as it will encourage vine growth. They will go for miles and you will get no tubers. If they do start spreading, lift the vines off the ground to prevent them rooting.
+Mound up the soil about 20cm (8 in) before planting
+Let the plants die down, (leaves die or turn yellow) before harvesting the tubers. Dry them in the sun for a few days . then store in a cool dry place for up to five months.",63,95,16,24,105,119,set(),set(),set(),set(),set()
+86,2022-10-24 11:18:00.074886,"N.B. Make sure that you plant EDIBLE Taro, some varieties that are grown as ornamental  plants are not edible and can have unpleasant results if eaten. There is some useful information here http://plants.usda.gov/plantguide/pdf/cs_coes.pdf
+Taro grows to about 1m (3ft)  and has long, green, heart-shaped leaves on long stalks.
+Taro  grows well in warm/hot, humid areas - it needs a long growing time, frost free and lots of water.
+Keep well watered. Dryness will stop growth. Grow in full sun
+Taro is damaged by cold or frosty weather. Lift the tubers and store in a cool dry place .",68,95,31,31,196,196,set(),set(),set(),set(),set()
+87,2022-10-24 11:18:01.717625,"Thyme is slow to grow from seed and is best propagated from root divisions or cuttings. 
+Seeds need to be started in a warm frost- free place. A greenhouse is ideal. Keep under cover until about 10cm (4in) high, then harden off by putting outside during the day and inside at night for about a week. Transplant the young plants into their final positions, in well-drained soil in full sunlight. Harvest sparingly in the first year. 
+Root divisions, from 3 or 4 year old plants, can be taken in late Spring and then planted into a sunny spot. 
+Water sparingly once established and avoid feeding. The plants will have most flavour in  Summer months.
+Thyme dies down in the winter, if frosty, but a good layer of mulch round the plant will protect the roots and provide enough food to keep it growing.",59,77,10,12,294,364,"{'oregano', 'cabbage', 'sage', 'eggplant'}",{3},{5},"{4, 5}",set()
+88,2022-10-24 11:18:03.155054,"NB Tomatillos are not self-fertile so you need to have at least two plants for cross-pollination.
+Tomatillos are from the same family as Cape Gooseberries, with a papery husk round the fruit. 
+Tomatillo plants are similar in growth to tomatoes and spread about 1 -1.5m . Can be supported but are happy spreading themselves around.
+The plants are very productive so 2 or 3 plants may be enough for the average household.
+Tomatillos will cope with cooler weather than tomatoes. 
+The fruit will swell to fill the husk as they ripen. 
+Do not use fertiliser.
+When buying seed, check that it is Ph. ixocarpa not Ph.peruviana otherwise you will grow Cape Gooseberries instead of Tomatillos.",70,81,28,28,70,98,set(),{3},{5},{5},set()
+89,2022-10-24 11:18:04.559803,"TOMATOES
+
+There is nothing like the taste of a freshly picked tomato, warm from the sunshine. In the smallest of gardens or even an apartment with a window-box, it is worth growing at least one tomato plant for the pleasure it will give you. They will grow in pots, troughs or even hanging baskets. 
+Tomatoes should be grown in shelter or under cover in cool climates.
+
+Tomatoes need feeding. In a garden bed, compost and mulching will produce a crop from one or two plants. In containers, use some suitable long term fertiliser pellets or feed regularly when you water. Feeding also improves the flavour of the fruit.
+
+When you plant out, put the seedlings in a deep holes, up to the top set of leaves. The  covered stems will put out extra roots and you will have a stronger, healthier plant.
+There are many different varieties of tomatoes but they all have one of two growth habits.
+Determinate:
+Compact bush growth, stops at a specific height and useful for containers. If left without supporting stakes, they will form a dense carpet which excludes weeds and keeps the soil cool and damp. 
+Indeterminate:
+Will continue growing a main stem, or vine until stopped by frost. The majority of heirloom tomatoes are indeterminate. 
+Both types need stakes to give them some support otherwise they will sprawl across the garden.
+Varieties include Acid-free, Bush, Tall, Cherry, Yellow and many others.",61,95,16,24,56,119,"{'marigold', 'celery', 'parsley', 'chives', 'basil', 'carrot', 'chervil', 'asparagus'}",{3},"{4, 5, 6}","{4, 5}","{'rosemary', 'cucumber', 'fennel', 'potatoes'}"
+90,2022-10-24 11:18:06.221369,"Round, root vegetable.  The flesh is white .
+Turnips take about 6 to 10 weeks to reach a useable size.
+Sow every three or four weeks for a continuous supply.
+Water regularly.",54,86,5,8,42,63,"{'spinach', 'chives', 'carrots', 'peas', 'chicory', 'beans'}",set(),set(),"{3, 4, 5, 8, 9}","{'tomatoes', 'potatoes'}"
+91,2022-10-24 11:18:07.967918,"Large, round or oval, smooth green skinned, delicious, sweet pink fleshed melon.
+Some have stripes on the skin.
+Some varieties will produce fruit up to 14 Kg (31 US pounds).
+Harvest when the part in contact with the ground is turning yellow and the fruit sounds hollow when tapped.
+Watermelon needs plenty of room to grow as it sends out long vines 
+Needs a long warm season to mature.",70,95,24,30,84,119,"{'sweetcorn', 'sunflowers'}",set(),set(),"{5, 6}",{'potatoes'}
+92,2022-10-24 11:18:09.626223,"Yacon is perennial in sub-tropical/tropical areas.  Save some root pieces and treat as an annual in other areas.
+Grows into a large plant ( about 2m/6ft) with flowers similar to sunflowers and Jerusalem artichokes.
+The plants die down after frost but the roots are sweeter. To store, dig and dry out for a couple of days in the sun if possible. Store in a dry, cool, not freezing and dark place. 
+Any roots left in the ground will grow the following year except where there are frosts.",50,77,39,39,175,175,set(),set(),set(),set(),set()
+93,2022-10-24 11:18:11.033463,"Yams needs a long growing time to produce the tubers. 
+Protect from early Autumn (Fall) frosts to give time for tubers to fully develop.
+Planting needs are similar to potatoes. Yams can handle more shade than potatoes.
+Earthing up will help increase production. 
+The leaves look rather like clover.
+Dig up after the plant dies down and leave outside for a few days to dry.",63,95,12,18,105,140,set(),set(),set(),{4},set()
+94,2022-10-24 11:18:12.779423,"Plant into a slightly raised, well composted bed and mulch. Needs regular plentiful water.
+Produces large leaves with a spread of about 1.5m x 1.5m. Some varieties trail a bit but don't climb. The yellow (or gold) variety is more resistant to mould damage in humid areas and remains productive even when the leaves have mildew on them. The yellow varieties sometimes have yellow patches on their leaves but it is just colour not disease.
+If there are no bees around and  the fruit are not setting well or die off after starting to grow, try picking a male flower (straight stem) and gently brushing pollen inside female flowers.
+Blackjack is the most popular green variety.
+At the start, the plants produce mainly male flowers. The female ones start as the weather warms up and the plants grow.
+A spray with a 5gm/teasp Bicarbonate of Soda in 600ml/pint of water will help slow powdery mildew when it appears.",70,95,20,35,42,63,"{'silverbeet', 'corn', 'parsley', 'nasturtiums', 'tomatoes', 'beans'}",{3},{4},"{4, 5, 6}",{'potatoes'}
